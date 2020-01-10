@@ -17,3 +17,5 @@ If you clone the git repo, be sure to run
 
 to initialize the ipython_doctest submodule. Otherwise, the exercise notebooks
 won't work.
+
+This a very good resource to learn about using SymPy.
